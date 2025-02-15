@@ -1,3 +1,5 @@
+# **THIS IS UNMAINTAINED AND ABANDONED SOFTWARE - DO NOT CONTACT FOR SUPPORT**
+
 # tiny steam big picture launcher
 110kb (built) shell program to launch explorer and steam in tenfoot (big picture mode).
 ## usage
